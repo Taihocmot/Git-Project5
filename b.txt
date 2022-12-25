@@ -1,3 +1,7 @@
 Noi dung B
 
+<<<<<<< HEAD
 Them noi dung D2
+=======
+Them noi dudng B2
+>>>>>>> beta
